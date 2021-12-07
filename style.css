@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first{
+    width: 600px;
+    margin: 40px;
+    padding: 100px;
+    background-color: green;
+    position: relative;
+    left: 20%;
+    height: 500px;
+    
+
+}
+.btn{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    
+}
+button{
+    padding: 10px;
+    margin: 16px;
+    bottom: 50px;
+
+}
+.btn2{
+    position: absolute;
+    bottom:  200px;
+    padding: 10px;
+    
+
+}
+
+
